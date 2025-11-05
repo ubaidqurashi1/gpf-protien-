@@ -1,5 +1,6 @@
 # Genomic Perception Fusion (GPF)
 -Created by **Syed Ubaid Qurashi**
+
 A lightweight, interpretable framework for protein functional tuning—from DNA sequence to high-order functional representation.
 
 ## Features
