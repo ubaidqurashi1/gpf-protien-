@@ -1,0 +1,2 @@
+cd gpf-protein-design
+docker build -t gpf:latest .
