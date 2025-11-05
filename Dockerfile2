@@ -1,0 +1,7 @@
+gpf-protein-design/
+├── Dockerfile          ← This file
+├── requirements.txt
+├── gpf/
+├── tests/
+├── tools/foldx/
+└── ...
