@@ -1,0 +1,5 @@
+# Mount PDB file and run FoldX
+docker run -it --rm -v $(pwd):/app gpf:latest bash -c "
+cd tools/foldx
+./run_foldx.sh /app/data/1GFL.pdb V163D
+"
